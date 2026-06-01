@@ -1,0 +1,12 @@
+# Ignore large raw dataset
+historical_data.csv
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Streamlit config/state
+.streamlit/
